@@ -1,0 +1,35 @@
+[descriptive data]						
+title	JP 2013-019993A Example 3					
+[variable distances]						
+Focal Length	58.0216					
+Angle of View	41.74					
+F-Number	1.45					
+Image Height	43.2					
+Total Length	93.82445					
+Distance	Infinity					
+Magnification	0					
+d0	Infinity					
+Bf	38.69998					
+[lens data]				
+1	54.7137	7	1.74443	48.2
+2	308.4327	0.1		48.2
+3	42.3272	9.473	1.755	40.2
+4	55.7512	3.7515		34.5
+5	205.5926	1.5	1.6727	33.0
+6	30.2418	6		29.9
+7	AS	6		27.7
+8	-28.1625	1.7	1.72825	29.4
+9	36.4172	7	1.883	33.7
+10	-87.6276	0.1		33.7
+11	147.1989	5	1.883	34.0
+12	-43.9773	1.5	1.53172	34.0
+13	48.6565	6	1.7443	32.6
+14	-68.4596	Bf		32.6
+[aspherical data]						
+1	54.7137	-0.3648	1.81344E-07	2.27541E-10	-6.87261E-14	8.40488E-17
+14	-68.4596	9.2309	8.16757E-06	7.51032E-09	-1.01253E-11	4.97307E-14
+[figure]						
+source	Nikon/JP2013-019993/Figure05.png					
+ppmm	25.59660405					
+originX	99					
+originY	856					

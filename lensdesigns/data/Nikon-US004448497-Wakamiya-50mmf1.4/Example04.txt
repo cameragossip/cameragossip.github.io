@@ -1,0 +1,31 @@
+[descriptive data]				
+title	US 4,448,497 Example 4			
+[variable distances]				
+Focal Length	100			
+Angle of View	46			
+F-Number	1.4			
+Image Height	86.53			
+Total Length	84.1086			
+Magnification	0			
+d0	Infinity			
+Bf	74.1			
+[lens data]				
+1	86.771	9.8837	1.80218	76
+2	592.843	0.1938		76
+3	50.839	9.6899	1.78797	64
+4	75.826	2.907		62
+5	141.066	2.7132	1.6727	60
+6	34.981	16.6512		51
+7	AS	13		49.6
+8	-34.459	1.938	1.74	48.8
+9	9689.922	12.9845	1.77279	57
+10	-56.876	0.3876		60
+11	-179.516	8.1395	1.78797	66.8
+12	-60.444	0.1938		67.8
+13	277.19	5.4264	1.78797	66
+14	-331.492	Bf		66
+[figure]				
+source	Nikon/US004448497/Figure02.png			
+ppmm	9.392618591			
+originX	405			
+originY	599			
