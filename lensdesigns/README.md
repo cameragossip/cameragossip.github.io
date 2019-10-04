@@ -9,3 +9,7 @@ and therefore these have to be estimated based on the diagrams.
 
 Sometimes the patent data has an obvious mistake, and sometimes the mistake is not obvious.
 We have tried to correct obvious mistakes - these are noted in the data files.
+
+## Viewing the Notebooks
+
+You can views these at https://nbviewer.jupyter.org/github/cameragossip/cameragossip.github.io/tree/master/lensdesigns/
